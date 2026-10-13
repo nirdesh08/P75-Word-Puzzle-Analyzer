@@ -1,0 +1,5 @@
+category,attempts,avg_score,avg_time_seconds,completion_pct
+Cryptogram,4,63.75,735.0,100.0
+Crossword,4,76.75,585.0,75.0
+Anagram,4,80.75,365.0,100.0
+Word Search,4,87.75,255.0,100.0
